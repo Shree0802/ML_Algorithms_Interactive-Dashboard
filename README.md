@@ -38,7 +38,7 @@
 | **Location** | Kasaba Bawada, Kolhapur, Maharashtra, India |
 | **Email** | [shreepatil0802@gmail.com](mailto:shreepatil0802@gmail.com) |
 | **Mobile** | +91 9021830410 |
-| **GitHub Repo** | [Shree0802/ML-Experiments_Interactive-Dashboard](https://github.com/Shree0802/ML-Experiments_Interactive-Dashboard) |
+| **GitHub Repo** | [Shree0802/ML_AlgorithmsInteractive-Dashboard](https://github.com/Shree0802/ML_Algorithms_Interactive-Dashboard) |
 
 ---
 
@@ -49,7 +49,7 @@
 ```bash
 # 1. Clone the repository
 git clone https://github.com/Shree0802/ML-Experiments_Interactive-Dashboard.git
-cd ML-Experiments_Interactive-Dashboard
+cd ML_Algorithms_Interactive-Dashboard
 
 # 2. Install dependencies
 pip install -r requirements.txt
